@@ -66,4 +66,6 @@ plt.show()
 ## Output:
 ![Screenshot 2025-04-22 172557](https://github.com/user-attachments/assets/886540a0-62fa-4a31-a260-c92e28036b14)
 ## Colab link:
-```https://colab.research.google.com/drive/1UcartrGKPb4IOSUIsCIi3JSYd_MOXBc7?usp=sharing```
+```
+https://colab.research.google.com/drive/1UcartrGKPb4IOSUIsCIi3JSYd_MOXBc7?usp=sharing
+```
